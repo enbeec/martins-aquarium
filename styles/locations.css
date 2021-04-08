@@ -2,8 +2,13 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+	background-color: lightgreen;
+	padding-top: 1em;
 }
 
+.location {
+	margin-bottom: 1em;
+}
 
 .location__image {
     max-height: 10rem;
