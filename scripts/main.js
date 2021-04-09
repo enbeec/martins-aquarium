@@ -1,5 +1,13 @@
-import {FishList} from './FishList.js'
+import {FishesHTML, LocationsHTML, QuotesHTML, TipsHTML} from './templates.js'
 
-const parentHTMLElement = document.querySelector(".fishes")
+const fishesSection = document.querySelector(".fishes")
+fishesSection.innerHTML = FishesHTML()
 
-parentHTMLElement.innerHTML = FishList()
+const locationsSection = document.querySelector(".locations")
+locationsSection.innerHTML = LocationsHTML()
+
+const quotesSection = document.querySelector(".quotes")
+quotesSection.innerHTML = QuotesHTML()
+
+const tipsSection = document.querySelector(".tips")
+tipsSection.innerHTML = TipsHTML()
