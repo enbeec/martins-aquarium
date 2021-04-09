@@ -7,8 +7,17 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 
+.header {
+	text-shadow: 4px 4px 5px gainsboro;
+}
+
 .rounded {
 	border-radius: 10px;
+	box-shadow: 4px 4px 5px gainsboro;
+}
+
+.spacer {
+	height: 5%;
 }
 
 .bodyHeader {
