@@ -3,12 +3,12 @@
     flex-wrap: wrap;
     justify-content: space-around;
 	background-color: lightblue;
-	padding-top: 0.5em;
+	padding-top: 0.5rem;
 }
 
 .fish {
     flex-basis: 16%;
-	margin-bottom: 1em;
+	margin-bottom: 1rem;
 }
 
 .fish__name {

@@ -3,11 +3,11 @@
     flex-wrap: wrap;
     justify-content: space-around;
 	background-color: lightgreen;
-	padding-top: 1em;
+	padding-top: 1rem;
 }
 
 .location {
-	margin-bottom: 1em;
+	margin-bottom: 1rem;
 }
 
 .location__image {
