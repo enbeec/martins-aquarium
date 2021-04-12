@@ -1,4 +1,7 @@
-import {FishesHTML, LocationsHTML, QuotesHTML, TipsHTML} from './templates.js'
+import { FishesHTML } from './fishes.js'
+import { LocationsHTML } from './locations.js'
+import { QuotesHTML } from './quotes.js'
+import { TipsHTML } from './tips.js'
 
 const fishesSection = document.querySelector(".fishes")
 fishesSection.innerHTML = FishesHTML()
