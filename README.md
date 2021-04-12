@@ -5,7 +5,6 @@
 - [ ] Styling Changes
 	- Quotes need vertical space between them when stacked
 - [ ] Text/Wording Changes
-	- Fishes -> My Fish
 	- get rid of quotes section title?
 	- maybe move quotes title right and de-emphasize?
 	- "Native Fish:" is ugly to me
